@@ -1,0 +1,157 @@
+[
+  {
+    "id": 1,
+    "title": "spongebob squarepants",
+    "description": "A dark crime story unfolding in a corrupted city.",
+    "image": "spong",
+    "rating": 4.5,
+    "followers": 12800,
+     "director": "Stephen Hillenburg",
+     "resume": "SpongeBob and his best friend Patrick set out on a dangerous but hilarious journey to recover King Neptune’s stolen crown. Their adventure tests their friendship and proves that courage and loyalty can turn even the smallest hero into a legend."
+
+  },
+  {
+    "id": 2,
+    "title": "Moana",
+    "description": "A sci-fi journey where time has no rules.",
+    "image": "moana",
+    "rating": 4.2,
+    "followers": 21400,
+      "resume": "Moana embarks on an epic journey across the ocean to save her island and uncover her true destiny as a wayfinder."
+  
+  },
+  {
+    "id": 3,
+    "title": "Manssour",
+    "description": "A mysterious drama hidden behind a quiet town.",
+    "image": "mansour",
+    "rating": 3.9,
+    "followers": 8700
+  },
+  {
+    "id": 4,
+    "title": "Le Voyage d'Arlo",
+    "description": "Survivors searching for hope after the end of the world.",
+    "image": "dinassor",
+    "rating": 4.7,
+    "followers": 30500
+  },
+  {
+    "id": 5,
+    "title": "Neon Dreams",
+    "description": "A cyberpunk future full of secrets and rebellion.",
+    "image": "sanafire",
+    "rating": 4.3,
+    "followers": 19200
+  },
+  {
+    "id": 6,
+    "title": " Ratatouille ",
+    "description": "One night. One mission. No way back.",
+    "image": "mohamed",
+    "rating": 4.0,
+    "followers": 11000
+  },
+  {
+    "id": 7,
+    "title": "Broken Signal",
+    "description": "A lost transmission that changes everything.",
+    "image": "spirite",
+    "rating": 3.8,
+    "followers": 6400
+  },
+  {
+    "id": 8,
+    "title": "Fading Light",
+    "description": "A poetic story about love and loss.",
+    "image": "shrek",
+    "rating": 4.6,
+    "followers": 25600
+  },
+  {
+    "id": 9,
+    "title": "Iron Code",
+    "description": "Hackers fighting a system that controls the world.",
+    "image": "repanzel",
+    "rating": 4.4,
+    "followers": 22100
+  },
+  {
+    "id": 10,
+    "title": "Cold Verdict",
+    "description": "A tense courtroom thriller full of twists.",
+    "image": "pixare",
+    "rating": 4.1,
+    "followers": 13400
+  },
+  {
+    "id": 11,
+    "title": "Red Orbit",
+    "description": "A dangerous mission beyond Earth.",
+    "image": "oggy",
+    "rating": 4.8,
+    "followers": 41200
+  },
+  {
+    "id": 12,
+    "title": "Hidden Truth",
+    "description": "Every secret has a price.",
+    "image": "ichandiche",
+    "rating": 3.7,
+    "followers": 5900
+  },
+  {
+    "id": 13,
+    "title": "After Silence",
+    "description": "Life after a world-changing disaster.",
+    "image": "frozen",
+    "rating": 4.0,
+    "followers": 9800
+  },
+  {
+    "id": 14,
+    "title": "Final Frame",
+    "description": "A filmmaker chasing the perfect ending.",
+    "image": "dora",
+    "rating": 4.9,
+    "followers": 46000
+  }
+]
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
